@@ -17,3 +17,19 @@ Cuando vamos a trabajar con imágenes, el formato SVG presenta una gran ventaja 
 En imágenes simplificadas, íconos y logotipos. Atención: El SVG no mantiene detalles de una imagen compleja.  
 
 <https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web>  
+
+## Conceptos  
+
+Para seguir un concepto de desarrollo, sea mobile-first o sea desktop-first, puedes seguir lo que prefieras porque no existe una regla que indique cual sea primero. Cada uno de ello tiene sus ventajas y desventajas que deben ser evaluadas de acuerdo con las necesidades del proyecto.
+
+Para demostrar, aquí están algunas motivaciones de utilizar el desarrollo mobile-first:
+
+Gran parte de los accesos y ventas son de dispositivos móviles;
+El diseño es minimalista y simplificado;
+Enfoque en el contenido.
+Las motivaciones para utilizar el desarrollo desktop-first:
+
+La interfaz tiene features más ricas;
+Mayor capacidad de ejecución de las instrucciones;
+El producto es optimizado para desktop (ejemplo: Google Docs).
+Así que al desarrollar es importante analizar todos los puntos que influencian en el proyecto. Clientes, features, costo y lenguaje visual son algunos de los puntos que favorecen un abordaje sobre el otro.  
