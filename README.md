@@ -33,3 +33,14 @@ La interfaz tiene features más ricas;
 Mayor capacidad de ejecución de las instrucciones;
 El producto es optimizado para desktop (ejemplo: Google Docs).
 Así que al desarrollar es importante analizar todos los puntos que influencian en el proyecto. Clientes, features, costo y lenguaje visual son algunos de los puntos que favorecen un abordaje sobre el otro.  
+
+## Para saber más: PageSpeed Insights - Herramienta del contenido
+
+La herramienta "PageSpeed Insights" analiza el contenido de una página web y te sugiere qué hacer para mejorar la velocidad de esa una página.
+
+Puedes acceder en:
+
+PageSpeed Insights
+<https://developers.google.com/speed/pagespeed/insights>
+
+Inserta un enlace que la herramienta analizan las versiones mobile y desktop, con cálculos de velocidad y performance, sugestiones de lo que pueden acelerar la carga.
