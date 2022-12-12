@@ -44,3 +44,26 @@ PageSpeed Insights
 <https://developers.google.com/speed/pagespeed/insights>
 
 Inserta un enlace que la herramienta analizan las versiones mobile y desktop, con cálculos de velocidad y performance, sugestiones de lo que pueden acelerar la carga.
+
+## Media Query
+
+Las media queries permiten crear páginas con estilos diferentes en el mismo archivo CSS por muchas condiciones diferentes, como por ejemplo, la largura de la pantalla de un dispositivo.
+
+Después que terminar de desarrollar todo el layout de la página en la versión mobile, el próximo paso es el diseño en la versión tablet, en este caso empieza a partir de 768px de largura. Para insertar todo el estilo sin cambiar la versión mobile, necesitamos utilizar un media query.
+
+```css
+@media (min-width: 768px) { “estilo aquí” }
+```  
+
+Está con la condición de las “pantallas con largura a partir de 768px”.  
+
+## Para saber más: Breakpoints
+
+Para saber más sobre los breakpoints y valores genéricos para dispositivos (referencia en inglés), puedes leer este texto:
+
+Media Queries for Standard Devices
+<https://css-tricks.com/snippets/css/media-queries-for-standard-devices/>  
+
+## ¿Cómo lidiar con los límites de resolución en sitios responsivos?
+
+<https://www.aluracursos.com/blog/como-lidiar-con-los-limites-de-resolucion-en-sitios-responsivos>  
